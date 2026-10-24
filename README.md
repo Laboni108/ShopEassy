@@ -1,4 +1,5 @@
 # ShopEasy — Basic E-Commerce Site
+**Vercel Link** - shop-eassy.vercel.app
 
 A full-stack e-commerce demo built with **Express.js** (Node.js) + **MongoDB** (via Mongoose) on the backend and plain **HTML/CSS/JavaScript** on the frontend.
 
